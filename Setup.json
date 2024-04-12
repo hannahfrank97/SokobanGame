@@ -208,17 +208,19 @@
       "PosX": 9,
       "PosY": 5
     },
-    {
-      "Type": 1,
-      "Color": 3,
-      "PosX": 9,
-      "PosY": 6
-    },
+
     {
       "Type": 1,
       "Color": 3,
       "PosX": 0,
       "PosY": 0
+    },
+    {
+      "Type": 1,
+      "Color": 3,
+      "PosX": 9,
+      "PosY": 6
     }
+
   ]
 }
